@@ -1,9 +1,9 @@
 # SingleImageCompressor
  This Tool can be used to compress an Image File into a Desired size.
 
-Download the Repository 
+Download the Repository.
 
-Extract the Zip file
+Extract the Zip file.
 
 Open the SingleImageCompressor.exe
 
@@ -20,4 +20,4 @@ Now a prompt for entering the compression size will appear.
 Enter the desired compression size in KB.
 (Example type 100 for compressing the image in 100 KB and press enter.)
 
-Now compressed image will be present in the output folder select by the user.
+Now compressed image will be present in the output folder selected by the user.
